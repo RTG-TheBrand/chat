@@ -49,7 +49,7 @@ window.onload = function () {
 
       var title = document.createElement('h1')
       title.setAttribute('id', 'title')
-      title.textContent = 'vv'
+      title.textContent = 'I ❤️ U'
       // I ❤️ U
 
       title_inner_container.append(title)
